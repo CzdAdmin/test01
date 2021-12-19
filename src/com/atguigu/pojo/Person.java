@@ -7,4 +7,5 @@ package com.atguigu.pojo;
 public class Person {
 
     private Integer id;
+    private String name;
 }
